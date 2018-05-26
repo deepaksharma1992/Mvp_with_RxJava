@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Guardians News</string>
+    <string name="tv_no_connection">Please make sure that you are connected to internet.</string>
+    <string name="no_item">Currently there are no items on your list. Try again after some time to get the latest news.</string>
+</resources>
